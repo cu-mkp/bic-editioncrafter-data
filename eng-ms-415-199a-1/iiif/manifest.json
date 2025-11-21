@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "../data/eng-ms-415-199a-1/iiif/manifest.json",
+	"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "../data/eng-ms-415-199a-1/iiif/canvas/f000",
+			"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f000",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "../data/eng-ms-415-199a-1/iiif/canvas/f000/annotationpage/0",
+					"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f000/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "../data/eng-ms-415-199a-1/iiif/canvas/f000/annotationpage/0/annotation/0",
+							"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f000/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -31,17 +31,9 @@
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00415-00199-A-00001-000-00001.jp2/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
 								]
 							},
-							"target": "../data/eng-ms-415-199a-1/iiif/canvas/f000"
+							"target": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f000"
 						}
 					]
 				}
@@ -55,50 +47,50 @@
 			},
 			"annotations": [
 				{
-					"id": "../data/eng-ms-415-199a-1/iiif/canvas/f000/annotationPage/1",
+					"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f000/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "../data/eng-ms-415-199a-1/iiif/canvas/f000/annotationPage/1/annotation/0",
+							"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f000/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "../data/eng-ms-415-199a-1/tei/text-1/f000.xml",
+								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/tei/text-1/f000.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "../data/eng-ms-415-199a-1/iiif/canvas/f000"
+							"target": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f000"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "../data/eng-ms-415-199a-1/iiif/canvas/f000/annotationPage/1/annotation/1",
+							"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f000/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "../data/eng-ms-415-199a-1/html/text-1/f000.html",
+								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/html/text-1/f000.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "../data/eng-ms-415-199a-1/iiif/canvas/f000"
+							"target": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f000"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "../data/eng-ms-415-199a-1/iiif/canvas/f001",
+			"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "../data/eng-ms-415-199a-1/iiif/canvas/f001/annotationpage/0",
+					"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "../data/eng-ms-415-199a-1/iiif/canvas/f001/annotationpage/0/annotation/0",
+							"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -113,17 +105,9 @@
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00415-00199-A-00001-000-00002.jp2/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
 								]
 							},
-							"target": "../data/eng-ms-415-199a-1/iiif/canvas/f001"
+							"target": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f001"
 						}
 					]
 				}
@@ -137,50 +121,50 @@
 			},
 			"annotations": [
 				{
-					"id": "../data/eng-ms-415-199a-1/iiif/canvas/f001/annotationPage/1",
+					"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "../data/eng-ms-415-199a-1/iiif/canvas/f001/annotationPage/1/annotation/0",
+							"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "../data/eng-ms-415-199a-1/tei/text-1/f001.xml",
+								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/tei/text-1/f001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "../data/eng-ms-415-199a-1/iiif/canvas/f001"
+							"target": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "../data/eng-ms-415-199a-1/iiif/canvas/f001/annotationPage/1/annotation/1",
+							"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "../data/eng-ms-415-199a-1/html/text-1/f001.html",
+								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/html/text-1/f001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "../data/eng-ms-415-199a-1/iiif/canvas/f001"
+							"target": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f001"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "../data/eng-ms-415-199a-1/iiif/canvas/f002",
+			"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "../data/eng-ms-415-199a-1/iiif/canvas/f002/annotationpage/0",
+					"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "../data/eng-ms-415-199a-1/iiif/canvas/f002/annotationpage/0/annotation/0",
+							"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -195,17 +179,9 @@
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
-								],
-								"thumbnail": [
-									{
-										"id": "https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00415-00199-A-00001-000-00003.jp2/full/124,192/0/default.jpg",
-										"format": "image/jpeg",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
 								]
 							},
-							"target": "../data/eng-ms-415-199a-1/iiif/canvas/f002"
+							"target": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f002"
 						}
 					]
 				}
@@ -219,34 +195,34 @@
 			},
 			"annotations": [
 				{
-					"id": "../data/eng-ms-415-199a-1/iiif/canvas/f002/annotationPage/1",
+					"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f002/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "../data/eng-ms-415-199a-1/iiif/canvas/f002/annotationPage/1/annotation/0",
+							"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f002/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "../data/eng-ms-415-199a-1/tei/text-1/f002.xml",
+								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/tei/text-1/f002.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "../data/eng-ms-415-199a-1/iiif/canvas/f002"
+							"target": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f002"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "../data/eng-ms-415-199a-1/iiif/canvas/f002/annotationPage/1/annotation/1",
+							"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f002/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "../data/eng-ms-415-199a-1/html/text-1/f002.html",
+								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/html/text-1/f002.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "../data/eng-ms-415-199a-1/iiif/canvas/f002"
+							"target": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-415-199a-1/iiif/canvas/f002"
 						}
 					]
 				}
